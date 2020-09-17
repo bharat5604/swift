@@ -1,0 +1,50 @@
+.concept{
+    margin: 40px 0px;
+}
+.concept__heading h1{
+    font-size: 28px;
+    color: #666;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.concept__heading span{
+    color: #666;
+    font-size: 14px;
+}
+.css-1qzevvg{
+    width: 100% !important;
+    top: -178px;
+}
+@media screen and (min-width: 380px) and (max-width:768px){
+    .css-1qzevvg{
+        width: 20% !important;
+        top: 0px;
+    }
+}
+.css-1qzevvg img:first-child{
+    position: relative !important;
+    left: -20% !important;
+}
+.css-1qzevvg img:last-child{
+    position: relative !important;
+    right: -20% !important;
+}
+.css-1fzpoyk{
+    border-radius: 30px;
+    border: 1px solid #ccc;
+}
+.css-1fzpoyk img{
+    border-radius: 30px;
+    width: 350px;
+    height: 300px;
+}
+.css-1fzpoyk{}
+.css-1fzpoyk img{
+    object-fit: inherit !important;
+}
+
+iframe{
+    border-radius: 30px;
+    width: 350px;
+    height: 300px;
+}
